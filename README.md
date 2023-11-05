@@ -1,1 +1,1 @@
-This is a blog project
+Micro Blog Project
